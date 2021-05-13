@@ -1,0 +1,20 @@
+Instance: http://www.google.com
+Start Time: 7.995238326
+End Time: 8.063971046
+Delay: 0.06873272
+
+Instance: http://xcal1.vodafone.co.uk/5MB.zip
+Start Time: 181.966290545
+End Time: 191.9466290545
+Delay: 9.9803385095
+
+Instance: http://xcal1.vodafone.co.uk/10MB.zip
+Start Time: 241.503328903
+End Time: 258.303826028
+Delay: 16.800497125
+
+Instance: http://xcal1.vodafone.co.uk/20MB.zip
+Start Time: 282.679406362
+End Time: 315.625436684
+Delay: 32.946030322
+
