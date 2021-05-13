@@ -9,13 +9,6 @@ import java.io.*;
 // Package for socket related stuff
 import java.net.*;
 
-	//TODO Print HTTP Header Info to a fIle HttpClientOutput (code should handle http redirects (i.e. if a website redirects to another location, should GET from new location)(i.e. http://cse.sc.edu redirects to https:// cse.sc.edu) 
-	//TODO Use Wireshark to capture HTTP, GET packets, HTTP response packets, and measure delay between GET and response (while using HttpClient)
-		//TODO Run Wireshark to capture packets from an Ethernet or WiFi interface
-		//TODO Apply the filter http in wireshark to filter only HTTP packets
-		//TODO run an instance of your HttpClient program and see the output of wireshark (TAKE .jpg SNAPSHOT OF THE OUTPUT
-		//TODO GET large files and measure how long it takes between HTTP GET and response packets. run $ java HttpClient http://xcal1.vodafone.co.uk/5MB.zip, $ java HttpClient http://xcal1.vodafone.co.uk/10MB.zip, $ java HttpClient http://xcal1.vodafone.co.uk/20MB.zip and calculate delay (storing delats in file HttpClientTime 
-		
 
 /*
  * This class does all the client's job
